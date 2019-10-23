@@ -127,3 +127,6 @@ dmypy.json
 # Editor
 .vscode
 .idea
+
+# Code coverage
+.DS_Store

@@ -5,4 +5,5 @@ cache: pip
 install:
   - pip install -r requirements/requirements.txt
 script:
-  - pytest project/tests
+  - pytest --cov-report html --cov=project/app project/tests
+  
