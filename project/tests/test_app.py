@@ -12,6 +12,10 @@ def test_subtract():
     calc = Calculator()
     assert calc.sub(2, 3) == 2 - 3
 
+def test_power():
+    calc = Calculator()
+    assert calc.power(2, 3) == 2 ** 3
+
 def test_fails_on_string():
     calc = Calculator()
     with pytest.raises(TypeError):
