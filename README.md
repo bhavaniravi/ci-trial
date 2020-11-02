@@ -1,6 +1,12 @@
 # Continous Integration Trial
 
-An Experimental Project with `python` to try different CI platforms 
+# Creating a conflict
+please create conflict
+
+
+
+
+# An Experimental Project with `python` to try different CI platforms 
 
 ## CI Update
 
