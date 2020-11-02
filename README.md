@@ -1,7 +1,15 @@
 # Continous Integration Trial
 
-An Experimental Project with `python` to try different CI platforms 
+# Creating a conflict
+please create conflict
 
-## CI Status
+
+
+
+# An Experimental Project with `python` to try different CI platforms 
+
+## CI Update
 
 [![Build Status](https://travis-ci.com/bhavaniravi/ci-trial.svg?branch=master)](https://travis-ci.com/bhavaniravi/ci-trial)
+
+Changes from trial branch
